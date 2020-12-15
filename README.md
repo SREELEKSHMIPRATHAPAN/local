@@ -18,7 +18,7 @@
     
 3. #### **Initialize the git** 
     * Firstly we install git on our system using `sudo apt install git`
-    * We use command for initializing git in the folder ``git init.
+    * We use command for initializing git in the folder `git init`.
     
 4. #### **Setting git configurations**
     Using the following commands for configurations.
@@ -45,3 +45,9 @@
 
     `git push origin master`
 
+9. #### **Generating ssh key pair**
+
+   `ssh-keygen -t rsa -C "sreelekshmitml@gmail.com"` use for generating ssh key pair
+   Then copy the generated ssh key to the location that saves information in text format.
+         `cat ~/.ssh/id_rsa.pub`
+   Go to the github account and and click settings->SSH and GPG keys->New SSH key the paste the key to the key text box and click the Add key button
