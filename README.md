@@ -47,7 +47,7 @@
 
 9. #### **Generating ssh key pair**
 
-   `ssh-keygen -t rsa -C "sreelekshmitml@gmail.com"` use for generating ssh key pair
-   Then copy the generated ssh key to the location that saves information in text format.
-         `cat ~/.ssh/id_rsa.pub`
+   `ssh-keygen -t rsa -C "sreelekshmitml@gmail.com"` use for generating ssh key pair.<br>
+   Then copy the generated ssh key to the location that saves information in text format.<br>
+         `cat ~/.ssh/id_rsa.pub`<br>
    Go to the github account and and click settings->SSH and GPG keys->New SSH key the paste the key to the key text box and click the Add key button
