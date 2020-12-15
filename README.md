@@ -7,9 +7,8 @@
     * Creating a local git repo named WebGit.
     
 2. #### **Initialize the git** 
-    * Firstly we install git on our system using `sudo apt install git`.
-    * Then i create a folder in Downloads named PROJECT-SDLAB
-    * We use `` command for initializing git in the folder.
+    * Firstly we install git on our system using `sudo apt install git`
+    * We use command for initializing git in the folder ``git init.
     
 3. #### **Setting git configurations**
     Using the following commands for configurations.
