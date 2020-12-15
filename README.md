@@ -25,6 +25,7 @@
 
    First,need to set your central repository as origin using the following command:
 
+    * To clone use the command `git clone https://github.com/SREELEKSHMIPRATHAN/local.git`
     `git remote set-url origin `
     `git pull origin master`
 
