@@ -31,9 +31,9 @@
 6. #### **Adding files to the repository**
     * Via upload files add all the programs into the github repository.
 
-7. #### **Add remote repostory as origin and create version**
+7. #### **Add remote repository as origin and create version**
 
-   First,need to set your central repository as origin using the following command:
+   First, need to set your central repository as origin using the following command:
 
     * To clone use the command `git clone https://github.com/SREELEKSHMIPRATHAN/local.git`
     `git remote set-url origin `
