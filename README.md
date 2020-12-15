@@ -1,11 +1,11 @@
 # HTML
    HTML is the standard markup language for creating websites and CSS is the language that describes the style of an HTML document. We will combine HTML and CSS to create a basic web page.
    For creating an html page we use tags
-   * <html></html>:- It element is the root element of an HTML page.
-   * <title></title>:- It specifies the title of the document.
-   * <head></head>:- It contains title tag and css codes are write inside it.
-   * <body>:- It contains the element of our website.
-  These are the basic HTML tag used for to create html page. Other tags are <style>,<p>,<font>,<i>,<u>,<b>,<align>,<marque>,etc.
+   * html:- It element is the root element of an HTML page.
+   * title:- It specifies the title of the document.
+   * head:- It contains title tag and css codes are write inside it.
+   * body:- It contains the element of our website.
+  These are the basic HTML tag used for to create html page. Other tags are style,p,font,i,u,b,align,marque,etc. These tags are enclosed with in <>.
   For styling html pages we use css(cascade style sheet)
    
 # WORKFLOW OF GIT
